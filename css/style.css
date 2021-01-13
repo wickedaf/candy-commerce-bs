@@ -1,0 +1,22 @@
+.candy-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 0.8em;
+}
+
+
+.candy-card{
+    border: 0;
+}
+
+.candy-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.categories div {
+    border-radius: .7em !important;
+}
+
+.categories img{
+    width: 100px;
+}
